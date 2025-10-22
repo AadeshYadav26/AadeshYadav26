@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadesh Kumar Yadav</h1>
 <h3 align="center">Passionate about tech, learning every day.</h3>
 
-- 🔭 I’m currently working on **my hackathon project**
+- 🔭 I’m currently learning **more stuffs**
 
 
 <p align="left">
